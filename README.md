@@ -15,7 +15,7 @@ aprendi a criar um formulario <br/>
 </p>
 
 <p align="center">
-  <img alt="" src="">
+  <img alt="" src="./assets/capa.png">
 </p>
 
 <br>
@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 
-- [Visite o projeto online] (https://peaceful-meringue-f0e3a3.netlify.app/)
+- [Visite o projeto online] (https://khnum782.github.io/Criando-um-formulario/)
 
 ## 🔖 Layout
 
